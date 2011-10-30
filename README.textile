@@ -1,0 +1,7 @@
+h1. Facebook Fan Gate
+
+A really simple and quick to implement Facebook 'Fan/Like Gate' built using just a few lines of PHP.
+
+h2. Installation
+
+Just point apache at the root folder, set up a new application on Facebook with the relevant configuration and you should be good to go.

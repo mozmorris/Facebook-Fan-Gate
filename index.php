@@ -1,4 +1,6 @@
 <?php
+include 'config/environment.php';
+
 /**
  * get the signed request parameter and decode it to get the user's
  * 'liked' status for the current page

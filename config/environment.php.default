@@ -1,0 +1,5 @@
+<?php
+$config = array(
+  'facebook_app_id' => 'XXXXXXXXXXXXXX'
+)
+?>

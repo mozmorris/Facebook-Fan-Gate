@@ -4,4 +4,6 @@ A really simple and quick to implement Facebook 'Fan/Like Gate' built using just
 
 h2. Installation
 
-Just point apache at the root folder, set up a new application on Facebook with the relevant configuration and you should be good to go.
+* Using the Developer App on Facebook, setup your new application and configure it's URLs to point at your host.
+* Rename environment.php.default to environment.php and set the *facebook_app_id* to your Facebook Application ID
+* Point apache at the root folder and you're good to go.
